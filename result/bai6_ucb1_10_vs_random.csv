@@ -1,0 +1,3 @@
+﻿Agent,Vị trí,Agent thắng,Random thắng,Hòa,Số ván,Thời gian (s)
+ucb1_10_player,X (đi trước),92,6,2,100,0.057
+ucb1_10_player,O (đi sau),74,18,8,100,0.046

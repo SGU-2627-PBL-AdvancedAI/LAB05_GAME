@@ -1,0 +1,7 @@
+﻿Agent,Vị trí,Thắng,Hòa,Thua,Số ván,Tổng thời gian agent (ms),Số nước agent,Thời gian TB/nước (ms)
+Alpha-Beta đầy đủ,X (đi trước),99,1,0,100,57491.8194,339,169.592388
+Alpha-Beta đầy đủ,O (đi sau),80,20,0,100,11065.1078,361,30.651268
+Heuristic cutoff=2,X (đi trước),93,7,0,100,310.3885,325,0.955042
+Heuristic cutoff=2,O (đi sau),81,16,3,100,277.2504,329,0.842706
+Heuristic cutoff=4,X (đi trước),100,0,0,100,3929.4834,401,9.79921
+Heuristic cutoff=4,O (đi sau),74,26,0,100,2415.3142,353,6.84225

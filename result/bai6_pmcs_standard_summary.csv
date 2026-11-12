@@ -1,0 +1,4 @@
+﻿Agent,Thắng,Hòa,Thua,Tổng số ván,Tổng thời gian agent (ms),Tổng số nước agent,Thời gian TB/nước (ms)
+PMCS N=10,164,8,28,200,110.402,686,0.160936
+PMCS N=100,181,13,6,200,755.2871,665,1.13577
+PMCS N=1000,188,8,4,200,7230.9588,642,11.263176

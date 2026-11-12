@@ -1,30 +1,10 @@
-# Adversarial Search and Games
+# LAB05_GAME — hoàn thiện
 
-## Defining a Game
-* [Defining Tic-Tac-Toe](tictactoe_definitions.ipynb)
+Ba notebook được hoàn thiện trực tiếp từ các file người dùng tải lên.
 
-## Connection to search with nondeterministic actions
-* [Solving Tic-Tac-Toe with And-Or-Tree Search](tictactoe_and_or_tree_search.ipynb). Here the opponent is seen as part of the environment, i.e.,
-each action by the player is followed by an unknown action of the opponent which, from the viewpoint of the player makes the outcomes of actions nondeterministic.
-* Here are the basic functions for 
-[Tic-Tac-Toe](tictactoe_definitions.ipynb).
+- Giữ nguyên toàn bộ nội dung các cell Markdown gốc.
+- Bài 4: môi trường Tic-Tac-Toe tự chứa; giải thích eval_fun/cutoff; so sánh Alpha-Beta full, cutoff 2 và 4 trên 5 trạng thái; tournament 100 ván cho từng vị trí.
+- Bài 6: bỏ phụ thuộc tictactoe.py; UCT_depth1 dùng UCB1; kiểm thử trạng thái; tournament 100 ván cho từng vị trí; so sánh PMCS/UCB1 và kiểm tra độ ổn định 30 seed.
+- Bài 10: sửa thứ tự import để chạy tuần tự; giới hạn benchmark phù hợp; bổ sung heuristic thứ hai, Minimax Alpha-Beta tùy chọn heuristic, đấu hai heuristic và kiểm thử PMCS trên trạng thái thủ công.
 
-## Search in Unknown Environments
-* Experimental environment: [Micromouse](https://en.wikipedia.org/wiki/Micromouse) is an event where small robotic mice compete to solve a maze. 
-You can watch the video [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw).
-You can test your own agent function using the 
-  [Micromouse Simulator](https://github.com/mackorone/mms-python). 
-
-## Solving Games Using Adversarial Search
-* [Solving Tic-Tac-Toe with Minimax Search and Alpha-Beta Pruning](tictactoe_alpha_beta_tree_search.ipynb)
-* [Solving Tic-Tac-Toe with Heuristic Alpha-Beta Tree Search](tictactoe_heuristic_alpha_beta_tree_search.ipynb)
-* [Solving Tic-Tac-Toe with Pure Monte Carlo Search](tictactoe_pure_monte_carlo_search.ipynb)
-* [Solving Tic-Tac-Toe with Pure Monte Carlo Search + UCB1 Selection Policy](tictactoe_monte_carlo_tree_search_restricted.ipynb)
-
-## Interactive Game Play
-* [Play Tic-Tac-Toe Interactively (Simple Implementation)](tictactoe_interactive.ipynb)
-
-## Exercises
-* [Adversarial Search: Playing Connect 4](assignment_connect4.ipynb)
-* [Adversarial Search: Playing "Mean" Connect 4](assignment_mean_connect4.ipynb)
-* [Adversarial Search: Playing Dots and Boxes](assignment_dots_and_boxes.ipynb)
+Các notebook đã được thực thi tuần tự thành công trong môi trường kiểm thử; không có cell execution error.

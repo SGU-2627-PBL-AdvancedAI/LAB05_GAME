@@ -1,0 +1,3 @@
+﻿Agent 1,Agent 2,Agent 1 position,Agent 1 wins,Agent 2 wins,Draws,Games
+"Original heuristic, cutoff=2","Advanced heuristic, cutoff=4",+1 (đi trước),0,0,30,30
+"Original heuristic, cutoff=2","Advanced heuristic, cutoff=4",-1 (đi sau),0,30,0,30

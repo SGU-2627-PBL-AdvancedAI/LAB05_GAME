@@ -1,0 +1,11 @@
+﻿Trạng thái,Ngân sách mô phỏng,Nước đi,Hợp lệ
+X sắp thắng,10,2,True
+X sắp thắng,100,8,True
+O sắp thắng,10,2,True
+O sắp thắng,100,6,True
+X có thể hòa,10,3,True
+X có thể hòa,100,7,True
+Bàn trống,10,0,True
+Bàn trống,100,6,True
+Tình huống bất lợi,10,4,True
+Tình huống bất lợi,100,4,True

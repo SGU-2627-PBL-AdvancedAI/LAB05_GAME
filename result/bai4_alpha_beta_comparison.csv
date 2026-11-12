@@ -1,0 +1,16 @@
+﻿Trạng thái,Phương pháp,Độ sâu/cấu hình,Nước đi,Giá trị,Số nút,Thời gian (ms),Nhận xét
+X sắp thắng,Alpha-Beta đầy đủ,None (đến terminal),2,1.0,61,2.2797,"Tìm đến terminal, kết quả chính xác"
+X sắp thắng,Heuristic Alpha-Beta,2,8,1.0,13,0.7137,Nhanh hơn nhưng tầm nhìn ngắn
+X sắp thắng,Heuristic Alpha-Beta,4,2,1.0,47,2.1409,"Tầm nhìn sâu hơn, chi phí cao hơn"
+O sắp thắng,Alpha-Beta đầy đủ,None (đến terminal),2,-1.0,15,0.4392,"Tìm đến terminal, kết quả chính xác"
+O sắp thắng,Heuristic Alpha-Beta,2,2,-1.0,11,0.3718,Nhanh hơn nhưng tầm nhìn ngắn
+O sắp thắng,Heuristic Alpha-Beta,4,2,-1.0,15,0.4451,"Tầm nhìn sâu hơn, chi phí cao hơn"
+X có thể hòa,Alpha-Beta đầy đủ,None (đến terminal),7,0.0,101,3.4079,"Tìm đến terminal, kết quả chính xác"
+X có thể hòa,Heuristic Alpha-Beta,2,7,-0.3,21,0.9336,Nhanh hơn nhưng tầm nhìn ngắn
+X có thể hòa,Heuristic Alpha-Beta,4,7,0.0,81,3.3124,"Tầm nhìn sâu hơn, chi phí cao hơn"
+Bàn trống,Alpha-Beta đầy đủ,None (đến terminal),0,0.0,18297,546.4929,"Tìm đến terminal, kết quả chính xác"
+Bàn trống,Heuristic Alpha-Beta,2,0,0.0,26,1.0689,Nhanh hơn nhưng tầm nhìn ngắn
+Bàn trống,Heuristic Alpha-Beta,4,4,0.0,541,23.4842,"Tầm nhìn sâu hơn, chi phí cao hơn"
+Tình huống bất lợi,Alpha-Beta đầy đủ,None (đến terminal),1,-1.0,238,6.8636,"Tìm đến terminal, kết quả chính xác"
+Tình huống bất lợi,Heuristic Alpha-Beta,2,4,-0.6,26,1.1854,Nhanh hơn nhưng tầm nhìn ngắn
+Tình huống bất lợi,Heuristic Alpha-Beta,4,1,-1.0,148,5.1254,"Tầm nhìn sâu hơn, chi phí cao hơn"

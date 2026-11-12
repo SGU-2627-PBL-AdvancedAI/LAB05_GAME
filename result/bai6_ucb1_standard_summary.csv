@@ -1,0 +1,4 @@
+﻿Agent,Thắng,Hòa,Thua,Tổng số ván,Tổng thời gian agent (ms),Tổng số nước agent,Thời gian TB/nước (ms)
+UCB1 N=10,156,18,26,200,91.3409,683,0.133735
+UCB1 N=100,181,11,8,200,883.0218,653,1.352254
+UCB1 N=1000,189,6,5,200,8558.7416,649,13.187583

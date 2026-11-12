@@ -1,0 +1,7 @@
+﻿Trạng thái,Hàm đánh giá,Player,Giá trị heuristic,Thời gian (ms)
+Có thể ăn ô cuối,Original heuristic,-1,0.2,0.0229
+Có thể ăn ô cuối,Advanced heuristic,-1,0.75,0.0094
+Trạng thái 2 ô,Original heuristic,1,0.2,0.01
+Trạng thái 2 ô,Advanced heuristic,1,0.75,0.0076
+Bàn 3x3 gần cuối,Original heuristic,-1,2.0,0.0134
+Bàn 3x3 gần cuối,Advanced heuristic,-1,2.0,0.0058

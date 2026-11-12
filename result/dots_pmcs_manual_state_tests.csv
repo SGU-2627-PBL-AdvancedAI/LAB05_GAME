@@ -1,0 +1,11 @@
+﻿Trạng thái,Người chơi,Nước đi,Utility trung bình,Rollout mỗi nước,Được PMCS chọn
+Có thể ăn ô cuối,-1,"('v', 0, 1)",1.0,100,True
+Trạng thái 2 ô,1,"('h', 0, 1)",0.14,100,False
+Trạng thái 2 ô,1,"('h', 1, 1)",-0.34,100,False
+Trạng thái 2 ô,1,"('v', 0, 1)",2.0,100,True
+Trạng thái 2 ô,1,"('v', 0, 2)",0.12,100,False
+Bàn 3x3 gần cuối,-1,"('h', 2, 0)",1.14,100,False
+Bàn 3x3 gần cuối,-1,"('h', 2, 1)",1.4,100,False
+Bàn 3x3 gần cuối,-1,"('v', 1, 0)",1.54,100,False
+Bàn 3x3 gần cuối,-1,"('v', 1, 1)",0.68,100,False
+Bàn 3x3 gần cuối,-1,"('v', 1, 2)",1.64,100,True

@@ -1,0 +1,9 @@
+﻿Phương pháp,Ngân sách,Vị trí,Agent thắng,Random thắng,Hòa,Số ván
+PMCS,10,X (đi trước),94,5,1,100
+PMCS,10,O (đi sau),74,18,8,100
+UCB1,10,X (đi trước),89,5,6,100
+UCB1,10,O (đi sau),74,18,8,100
+PMCS,100,X (đi trước),97,1,2,100
+PMCS,100,O (đi sau),87,9,4,100
+UCB1,100,X (đi trước),98,0,2,100
+UCB1,100,O (đi sau),87,8,5,100

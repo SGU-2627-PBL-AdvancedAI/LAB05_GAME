@@ -1,0 +1,7 @@
+﻿Agent,Thắng,Hòa,Thua,Tổng số ván,Tổng thời gian agent (ms),Tổng số nước agent,Thời gian TB/nước (ms)
+Minimax Alpha-Beta,99,101,0,200,2042.58,799,2.556421
+Heuristic cutoff=2,102,84,14,200,181.0868,780,0.232163
+Heuristic cutoff=4,96,104,0,200,887.322,796,1.114726
+PMCS N=10,118,51,31,200,1046.7707,755,1.386451
+PMCS N=100,112,54,34,200,10076.0045,753,13.381148
+PMCS N=1000,114,48,38,200,99970.6187,750,133.294158

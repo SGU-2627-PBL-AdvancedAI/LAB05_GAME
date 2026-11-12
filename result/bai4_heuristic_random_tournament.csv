@@ -1,0 +1,5 @@
+﻿Agent,Vị trí,Agent thắng,Random thắng,Hòa,Số ván,Thời gian (s)
+heuristic2_player,X (đi trước),94,0,6,100,0.321
+heuristic2_player,O (đi sau),83,1,16,100,0.295
+heuristic4_player,X (đi trước),98,0,2,100,4.023
+heuristic4_player,O (đi sau),86,0,14,100,2.306
